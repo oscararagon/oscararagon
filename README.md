@@ -1,4 +1,6 @@
-### Hi there 👋I'm Oscar
+### Hi there 👋, I'm Oscar
+<img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/madushadhanushka?color=236ad3&style=for-the-badge&logo=github&label=Follow"/>
+<a href="https://www.linkedin.com/in/oscar-stephano-aragon-celis-330ab4223/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 I'm an italo-peruvian 🇵🇪 🇮🇹 24 years old student currently attending a Master's Degree in Computer Science and Engineering at Politecnico di Milano
 <!--
 **oscararagon/oscararagon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
