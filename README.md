@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Hi there 👋I'm Oscar
+I'm an italo-peruvian 🇵🇪 🇮🇹 24 years old student currently attending a Master's Degree in Computer Science and Engineering at Politecnico di Milano
 <!--
 **oscararagon/oscararagon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
