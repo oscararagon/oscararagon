@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm Oscar
-<img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/oscararagon?color=236ad3&style=for-the-badge&logo=github&label=GITHUB"/>
+[![GitHub Starts](https://img.shields.io/github/stars/oscararagon?label=github&color=181717&logo=github&style=for-the-badge)](https://github.com/oscararagon)
 [![Linkedin](https://img.shields.io/badge/linked-in-369?style=for-the-badge&logo=linkedin&logoColor=white&color=blue)](https://www.linkedin.com/in/oscar-stephano-aragon-celis-330ab4223/)
 
 I'm an italo-peruvian 🇵🇪 🇮🇹 24 years old student currently attending a Master's Degree in Computer Science and Engineering at Politecnico di Milano
