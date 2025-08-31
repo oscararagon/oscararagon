@@ -2,8 +2,8 @@
 [![GitHub Starts](https://img.shields.io/github/stars/oscararagon?label=github&color=181717&logo=github&style=for-the-badge)](https://github.com/oscararagon)
 [![Linkedin](https://img.shields.io/badge/linked-in-369?style=for-the-badge&logo=linkedin&logoColor=white&color=blue)](https://www.linkedin.com/in/oscar-stephano-aragon-celis-330ab4223/)
 
-I'm an italo-peruvian 🇵🇪 🇮🇹 human being born in 12-99-1999, based in Milan.  
-I attended a Master's Degree in Computer Science and Engineering at Politecnico di Milano and I'm currently working @ PwC as AI Developer
+I'm an italo-peruvian 🇵🇪 🇮🇹 human being, born in 12-99-1999 and currently based in Milan.
+I spent my university years diving into the world of Computer Science and Engineering at Politecnico di Milano and I'm currently working at PwC as AI Developer 🔭
 <!--
 **oscararagon/oscararagon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
